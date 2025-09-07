@@ -21,10 +21,4 @@ It is a simple **Banking Application** that demonstrates the use of **Java basic
 - **IntelliJ IDEA** (or any Java IDE / terminal)
 - **GitHub** for submission
 
----
-
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://C:\Users\arynm\IdeaProjects\java-banking-application\.idea
+----
