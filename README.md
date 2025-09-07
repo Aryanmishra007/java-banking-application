@@ -27,4 +27,4 @@ It is a simple **Banking Application** that demonstrates the use of **Java basic
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/java-banking-application.git
+   git clone https://C:\Users\arynm\IdeaProjects\java-banking-application\.idea
